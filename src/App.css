@@ -228,7 +228,7 @@ body, #root, .bg {
 .company {
   color: #fff;
   background: linear-gradient(90deg, #2563eb 60%, #1e40af 100%);
-  padding: 0.3rem 0.6rem;
+  padding: 4px 11px 4px 6px;
   border-radius: 999px;
   font-weight: 600;
   text-decoration: none;
@@ -238,7 +238,7 @@ body, #root, .bg {
   transition: background 0.2s, color 0.2s, box-shadow 0.2s;
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 4px;
 }
 .company:hover {
   background: linear-gradient(90deg, #1e40af 60%, #2563eb 100%);

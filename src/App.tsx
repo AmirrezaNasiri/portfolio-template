@@ -1,7 +1,7 @@
 import "./App.css";
 
 const AVATAR_URL = "/avatar.jpg";
-const COMPANY_URL = "https://www.linkedin.com/company/piermttp";
+const COMPANY_URL = "https://www.linkedin.com/company/atavessanti/";
 
 const LINKS = [
   {
@@ -59,8 +59,8 @@ function App() {
         <h1 className="title">Amirreza Nasiri</h1>
         <h2 className="title-sub">Senior Software, DevOps & Site-Reliability Engineer</h2>
         <a className="company" href={COMPANY_URL} target="_blank" rel="noopener noreferrer">
-          <img src="/piermttp-logo.jpg" alt="PierMTTP" className="company-logo" />
-          PierMTTP
+          <img src="/atavessanti-logo.jpg" alt="Ataves Santi" className="company-logo" />
+          Ataves Santi
         </a>
         <div className="location">
           <img src="/turkey-flag.png" alt="Turkey" className="location-icon" />
